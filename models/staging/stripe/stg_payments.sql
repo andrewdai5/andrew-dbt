@@ -8,4 +8,4 @@ select
     amount / 100 as amount,
     created as created_at
 
-from endless-datum-358715.stripe.payment
+from {{ source('stripe', 'payments')}}
