@@ -1,6 +1,6 @@
 version: 2
 
-# generic test are to test columns: 
+# generic test are to test columns in table: 
 # Unique
 # Not_null
 # Accepted_values
