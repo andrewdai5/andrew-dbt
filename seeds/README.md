@@ -1,0 +1,3 @@
+- csv files lives here
+- should only be used for small & static datasets
+- build these tables with csv by `dbt seed`
